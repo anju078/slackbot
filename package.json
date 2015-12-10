@@ -1,9 +1,9 @@
 {
-  "name": "devdacticBot",
+  "name": "SetuBot",
   "version": "0.0.1",
   "description": "Simple testing Node server",
   "main": "app.js",
-  "author": "Simon Reimler",
+  "author": "Anju kumari",
   "license": "MIT",
   "dependencies": {
     "express": "^4.x.x",
